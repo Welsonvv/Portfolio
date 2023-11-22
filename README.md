@@ -1,7 +1,7 @@
 # Portfolio
 
 Olá, este é meu portfolio de Analista de Dados.
-Acesse a página: https://welsonvv.github.io/portfolio/
+Acesse a página: https://welsonvv.github.io/Portfolio/
 
 Fique à vontade para fazer um fork e também criar o seu. 😁
 
